@@ -64,3 +64,5 @@ Rice is the best crop to be cultivated right there.
 - Add real-time weather API integration.
 - Deploy on Heroku / AWS / Azure.
 - Build a mobile app interface.
+
+Live URL: https://crop-recommendation-system-kle8.onrender.com/
